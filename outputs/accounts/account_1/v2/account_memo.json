@@ -1,0 +1,30 @@
+{
+    "account_id": "account_1",
+    "company_name": "G&M Pressure Washing",
+    "business_hours": {
+        "days": "Monday-Friday",
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "MST"
+    },
+    "office_address": "Calgary, Canada",
+    "services_supported": [
+        "pressure washing"
+    ],
+    "emergency_definition": [],
+    "emergency_routing_rules": [],
+    "non_emergency_routing_rules": [],
+    "call_transfer_rules": {
+        "timeout_seconds": "unknown",
+        "retry_attempts": "unknown"
+    },
+    "integration_constraints": [],
+    "after_hours_flow_summary": "unknown",
+    "office_hours_flow_summary": "unknown",
+    "questions_or_unknowns": [
+        "business hours",
+        "routing rules",
+        "emergency definition"
+    ],
+    "notes": "Updated from onboarding call"
+}

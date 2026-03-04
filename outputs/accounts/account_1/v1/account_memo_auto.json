@@ -1,0 +1,20 @@
+{
+    "account_id": "account_1",
+    "company_name": "G&M Pressure washing",
+    "contact_phone": "403-870-8494",
+    "contact_email": "info@benselectricsolutionsteam.com",
+    "business_hours": {
+        "days": "unknown",
+        "start": "unknown",
+        "end": "unknown",
+        "timezone": "unknown"
+    },
+    "services_supported": [
+        "pressure washing"
+    ],
+    "questions_or_unknowns": [
+        "business hours",
+        "routing rules"
+    ],
+    "notes": "Automatically extracted from transcript"
+}
